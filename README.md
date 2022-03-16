@@ -1,4 +1,4 @@
 # project_400_python
-the following is my adaptaion of facial_req.py availble from https://github.com/carolinedunn/facial_recognition.
-my adations are to add my own notifaction system when a face has been detected and to upload an image of that face. 
-this is intented to run along with the facial_recognition and opencv and is set up for the raspberry pi 4 running buster os and a pi camera version 1.4
+The following is my adaptation of facial_req. Pi available from https://github.com/carolinedunn/facial_recognition.
+My additions are to add my own notification system using firebase and android when a face has been detected and to upload an image of that face. 
+This is intended to run along with the facial_recognition and opencv and is set up for the raspberry pi 4 running buster os and a pi camera version 1.4
